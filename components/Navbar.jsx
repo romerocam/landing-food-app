@@ -50,7 +50,7 @@ const Navbar = () => {
             <Link href="/#gallery">Catering</Link>
           </li>
           <li className="p-4">
-            <Link href="/work">Sobre Nosotros</Link>
+            <Link href="/aboutUs">Sobre Nosotros</Link>
           </li>
           <li className="p-4">
             <Link href="/contact">Contacto</Link>
