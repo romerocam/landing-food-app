@@ -41,10 +41,6 @@ const Navbar = () => {
             className="cursor-pointer"
             py="20px"
           />
-
-          {/* <h1 style={{ color: `${textColor}` }} className='font-bold text-4xl'>
-            Simplato
-          </h1> */}
         </Link>
         <ul style={{ color: `${textColor}` }} className="hidden sm:flex">
           <li className="p-4">
@@ -88,19 +84,19 @@ const Navbar = () => {
               onClick={handleNav}
               className="p-4 text-4xl hover:text-gray-500"
             >
-              <Link href="/#gallery">Gallery</Link>
+              <Link href="/#gallery">Catering</Link>
             </li>
             <li
               onClick={handleNav}
               className="p-4 text-4xl hover:text-gray-500"
             >
-              <Link href="/work">Work</Link>
+              <Link href="/work">Sobre Nosotros</Link>
             </li>
             <li
               onClick={handleNav}
               className="p-4 text-4xl hover:text-gray-500"
             >
-              <Link href="/contact">Contact</Link>
+              <Link href="/contact">Contacto</Link>
             </li>
           </ul>
         </div>

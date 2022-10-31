@@ -1,0 +1,22 @@
+export const SliderData = [
+  {
+    image:
+      "https://images.unsplash.com/photo-1649244451448-797144294226?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+  },
+  {
+    image:
+      "https://static.wixstatic.com/media/223d16_b5d1a13ab847461583bc04e710a52900~mv2_d_3888_2592_s_4_2.jpg/v1/fill/w_1450,h_967,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/223d16_b5d1a13ab847461583bc04e710a52900~mv2_d_3888_2592_s_4_2.jpg",
+  },
+  {
+    image:
+      "https://static.wixstatic.com/media/223d16_ba559bcd3fc74ca1a376029045a25181~mv2_d_3888_2592_s_4_2.jpg/v1/fill/w_1502,h_1001,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/223d16_ba559bcd3fc74ca1a376029045a25181~mv2_d_3888_2592_s_4_2.jpg",
+  },
+  {
+    image:
+      "https://static.wixstatic.com/media/223d16_4f4f2fc2b49d405a9c2cffaf1f53cc37~mv2_d_3888_2592_s_4_2.jpg/v1/fill/w_1502,h_1001,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/223d16_4f4f2fc2b49d405a9c2cffaf1f53cc37~mv2_d_3888_2592_s_4_2.jpg",
+  },
+  {
+    image:
+      "https://static.wixstatic.com/media/223d16_6dad5483c08641cabd65e34c33841b83~mv2_d_6016_4016_s_4_2.jpg/v1/fill/w_1500,h_1001,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/223d16_6dad5483c08641cabd65e34c33841b83~mv2_d_6016_4016_s_4_2.jpg",
+  },
+];
