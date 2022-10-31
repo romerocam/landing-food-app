@@ -11,7 +11,7 @@ const Contact = () => {
           <input
             className="border shadow-lg p-3"
             type="text"
-            placeholder="Name"
+            placeholder="Nombre"
           />
           <input
             className="border shadow-lg p-3"
@@ -22,13 +22,13 @@ const Contact = () => {
         <input
           className="border shadow-lg p-3 w-full my-2"
           type="text"
-          placeholder="Subject"
+          placeholder="Asunto"
         />
         <textarea
           className="border shadow-lg p-3 w-full"
           cols="30"
           rows="10"
-          placeholder="Message"
+          placeholder="Mensaje"
         ></textarea>
         <button className="border shadow-lg p-3 w-full mt-2">Enviar</button>
       </form>

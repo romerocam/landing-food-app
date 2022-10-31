@@ -5,7 +5,7 @@ import Main from '../components/Main'
 const contact = () => {
   return (
     <div>
-        <Main heading='Contact' message='Submit the form below for more work and quotes.' />
+        <Main heading='Contacto' message='Envíanos tu consulta completando el formulario de abajo' />
         <Contact />
     </div>
   )
