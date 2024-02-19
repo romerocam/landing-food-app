@@ -7,7 +7,7 @@ import simplato from "../public/assets/SIMPLATO-iso-rojo.png";
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const [color, setColor] = useState("transparent");
-  const [textColor, setTextColor] = useState("white") ;
+  const [textColor, setTextColor] = useState("white");
 
   const handleNav = () => {
     setNav(!nav);
