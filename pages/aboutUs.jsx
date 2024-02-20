@@ -5,7 +5,7 @@ import Portfolio from '../components/Portfolio'
 const aboutUs = () => {
   return (
     <div>
-        <Main heading='Nosotros' message='Somos Juan Y Marina'/>
+        <Main heading='Nosotros' message='Somos Juan Y Marina'   />
         <Portfolio />
     </div>
   )
